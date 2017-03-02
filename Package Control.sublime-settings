@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"Delete Current File",
+		"DocBlockr",
+		"Emmet",
+		"Gist",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"jQuery",
+		"LiveStyle",
+		"Markdown Preview",
+		"Package Control",
+		"PackageResourceViewer",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
+	]
+}
